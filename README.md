@@ -1,7 +1,7 @@
 # Hive DB-Flutter Todo
 
 A Hive DB-Flutter [NoSQL] Todo application.
-![TodoApp](Screenshot_1604379685.png)
+<img src="Screenshot_1604379685.png" width=550>
 
 ## Getting Started
 
